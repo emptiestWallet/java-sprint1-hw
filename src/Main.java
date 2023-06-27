@@ -21,7 +21,7 @@ public class Main {
             } else if (i == 4) {
                 System.out.println("Всего хорошего!");
                 scanner.close();
-                return;
+                break;
             } else {
                 System.out.println("Такой команды не существует");
             }

@@ -23,7 +23,7 @@ public class Main {
                 scanner.close();
                 return;
             } else {
-                System.out.println("Такой комманды не существует");
+                System.out.println("Такой команды не существует");
             }
         }
     }
